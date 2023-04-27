@@ -19,7 +19,6 @@ body {
 
 header {
     background-color: white;
-    height: 100px;
     max-width: 100%;
     min-width: 300px;
     margin: auto;
@@ -143,4 +142,10 @@ footer a:hover {
 
 .fa-whatsapp {
     margin-top: 16px;
+}
+
+.sor {
+    max-width: 483px;
+    min-width: 300px;
+    margin: auto;
 }
